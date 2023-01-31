@@ -6,7 +6,7 @@ My name is Dhriti, just an ordinary earthling who aspires to be a good developer
 <br>
 From India with love.
 
-<br><br>
+<br>
 
 I'm currently exploring big data related technologies while honing my design and development skills.
 <br>
@@ -14,9 +14,7 @@ So, if you have anything related to any of these niches, or anything you find in
 <br>
 like to share with me, ping me [@itirhdarchives](https://twitter.com/itirhdarchives)
 
-<br><br>
-
-
+<br>
 <!--
 **itirhd/itirhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
