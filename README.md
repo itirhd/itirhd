@@ -12,7 +12,7 @@ I'm currently exploring big data related technologies while honing my design and
 <br>
 So, if you have anything related to any of these niches, or anything you find interesting that you'd
 <br>
-like to share with me, ping me [@itirhdarchives](https://twitter.com/itirhdarchives)
+like to share with me, ping me at : [@itirhdarchives](https://twitter.com/itirhdarchives)
 
 <br>
 <!--
