@@ -1,5 +1,9 @@
-### Hi there 👋
+### Archive ㅡ ✶
 
+Hello! Welcome to my space where I archive my explorations.
+My name is Dhriti, just an ordinary earthling who aspires to be a good developer and designer.
+<br><br>
+From India with love.
 <!--
 **itirhd/itirhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
