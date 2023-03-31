@@ -8,7 +8,7 @@ From India with love.
 
 <br>
 
-I'm currently exploring ***big data related technologies*** while honing my ***design and development*** skills.
+I'm currently exploring ***nlp and big data related technologies*** while honing my ***design and development*** skills.
 <br>
 So, if you have anything related to any of these niches, or anything you find interesting that you'd
 <br>
