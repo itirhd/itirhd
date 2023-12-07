@@ -10,6 +10,8 @@ From India with love.
 
 I'm currently exploring the world of ***design*** while honing my ***web development*** skills.
 <br>
+I'm eager to dive into ***creative coding*** and explore the realms of ***machine learning and AI***. 
+<br>
 So, if you have anything related to any of these niches, or anything you find interesting that you'd
 <br>
 like to share with me, ping me at : [@itirhd_archives](https://twitter.com/itirhd_archives)
