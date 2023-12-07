@@ -8,7 +8,7 @@ From India with love.
 
 <br>
 
-I'm currently exploring ***nlp and big data related technologies*** while honing my ***design and development*** skills.
+I'm currently exploring the world of ***design*** while honing my ***web development*** skills.
 <br>
 So, if you have anything related to any of these niches, or anything you find interesting that you'd
 <br>
@@ -16,6 +16,7 @@ like to share with me, ping me at : [@itirhd_archives](https://twitter.com/itirh
 
 <br>
 <!--
+***nlp and big data related technologies***
 **itirhd/itirhd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
