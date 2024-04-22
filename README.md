@@ -4,7 +4,7 @@ Hello! Welcome to my space where I archive my explorations.
 <br>
 My name is Dhriti, just an ordinary earthling who aspires to be a good developer and designer.
 <br>
-From India with love.
+I belong to the tiniest state in India, by the sea.
 
 <br>
 
